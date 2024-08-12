@@ -14,4 +14,5 @@ console.log(typeof convertingIntoDigi)
 //boolean is easly converted and showing right value 1 means true and 0 means false
 
 //number is also converted into to the string
+///chane
 
